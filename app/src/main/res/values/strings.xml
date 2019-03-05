@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My fabflix</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_search"> Search Page </string>
+    <string name="title_activity_movie_list"> Movie List </string>
+    <string name="title_activity_movie"> Movie </string>
+</resources>
